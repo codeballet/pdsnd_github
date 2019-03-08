@@ -46,7 +46,7 @@ def get_filters():
             break
 
         else:
-            print('I did not recognize that city, please try again.')
+            print('Oh, I did not recognize that city, please try again.')
         
     loop_test = True
 
