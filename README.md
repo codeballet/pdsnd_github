@@ -15,4 +15,5 @@ new_york_city.csv
 washington.csv
 
 ### Credits
+Created by Johan Stjernholm.
 Forked from Udacity, as part of the nanodegree Programming for Data Science.
