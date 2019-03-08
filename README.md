@@ -3,7 +3,8 @@
 ### Project Title: Git Udacity Exam Project
 
 ### Description:
-The project is my Udacity exam project for learning version control using git. It displays a small series of git operations that simulates a coding project. 
+The project is my Udacity exam project for learning version control using git.
+The project displays a small series of git operations that simulates a coding project. 
 
 ### Files used
 bikeshare.py
