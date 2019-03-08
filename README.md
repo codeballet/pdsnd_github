@@ -1,11 +1,9 @@
-### Date created
-Include the date you created this project and README file.
+### Date created: 2019-03-08
 
-### Project Title
-Replace the Project Title
+### Project Title: Git Udacity Exam Project
 
-### Description
-Describe what your project is about and what it does
+### Description:
+The project is my Udacity exam project for learning version control using git. It displays a small series of git operations that simulates a coding project. 
 
 ### Files used
 Include the files used
