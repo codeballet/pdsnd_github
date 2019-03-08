@@ -373,6 +373,8 @@ def raw_data(df):
     else:
         print("Well, since you're not interested, I'm done. Thank you for your enquiry.") 
 
+
+# main function
 def main():
     while True:
         city, month, day = get_filters()
